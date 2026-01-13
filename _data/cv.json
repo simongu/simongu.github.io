@@ -1,32 +1,32 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Jinguang Gu",
+    "email": "simon@wust.edu.cn",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://simongu.github.io",
+    "summary": "Knowledge Enabled LLM, Agentic Web",
     "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
+      "address": "No. 2, West Huangjiahu Road, Hongshan District",
+      "postalCode": "430065",
+      "city": "Wuhan",
+      "countryCode": "CN",
       "region": ""
     },
     "profiles": [
       {
         "network": "Google Scholar",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "url": "https://scholar.google.com/citations?user=5eYEA7sAAAAJ&hl=zh-CN"
       },
       {
         "network": "ORCID",
         "username": "",
-        "url": "https://orcid.org/yourorcidurl"
+        "url": "https://orcid.org/0000-0002-8823-8480"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "simongu",
+        "url": "https://github.com/simongu"
       }
     ]
   },
